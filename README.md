@@ -11,4 +11,5 @@ list-of-ai-chats
 
 ## Пикчи
 [mistral.ai](https://chat.mistral.ai/)  
-[dall-e (micro$$$oft)](https://designer.microsoft.com/image-creator)
+[dall-e (micro$$$oft)](https://designer.microsoft.com/image-creator)  
+[qwenlm](https://chat.qwenlm.ai/)  
