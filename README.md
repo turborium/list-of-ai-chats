@@ -14,3 +14,4 @@ list-of-ai-chats
 [mistral.ai](https://chat.mistral.ai/)  
 [dall-e (micro$$$oft)](https://designer.microsoft.com/image-creator)  
 [qwenlm](https://chat.qwenlm.ai/)  
+[fooocus on colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)  
