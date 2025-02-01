@@ -1,6 +1,7 @@
 # list-of-ai-chats
 list-of-ai-chats
 
+## Чат
 [chatgpt](https://chatgpt.com/)  
 [deepseek (нефритовый стержень)](https://deepseek.com/)  
 [qwenlm (пейнт)](https://chat.qwenlm.ai/)  
@@ -8,6 +9,6 @@ list-of-ai-chats
 [tulu (епта)](https://playground.allenai.org/)  
 [copilot (micro$$$oft)](https://copilot.microsoft.com/)
 
-
+## Пикчи
 [mistral.ai](https://chat.mistral.ai/)  
 [dali (micro$$$oft)](https://designer.microsoft.com/image-creator)
