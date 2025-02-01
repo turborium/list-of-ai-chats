@@ -6,3 +6,4 @@ list-of-ai-chats
 [qwenlm (пейнт)](https://chat.qwenlm.ai/)  
 [mistral.ai (крышечка)](https://chat.mistral.ai/)  
 [tulu (епта)](https://playground.allenai.org/)  
+[copilot (micro$$$oft)](https://copilot.microsoft.com/)
