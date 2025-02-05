@@ -16,3 +16,4 @@ list-of-ai-chats
 [qwenlm](https://chat.qwenlm.ai/)  
 [fooocus on colab (SD)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)  
 [deepai SD](https://deepai.org/)  
+[JanusAI.Pro](https://janusai.pro/)
