@@ -8,7 +8,8 @@ list-of-ai-chats
 [copilot (github)](https://github.com/copilot)  
 [mistral.ai (крышечка)](https://chat.mistral.ai/)  
 [tulu (епта)](https://playground.allenai.org/)  
-[copilot (micro$$$oft)](https://copilot.microsoft.com/)
+[copilot (micro$$$oft)](https://copilot.microsoft.com/)  
+[grok](https://grok.com/)  
 
 ## Пикчи
 [mistral.ai](https://chat.mistral.ai/)  
@@ -16,4 +17,5 @@ list-of-ai-chats
 [qwenlm](https://chat.qwenlm.ai/)  
 [fooocus on colab (SD)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)  
 [deepai SD](https://deepai.org/)  
-[JanusAI.Pro](https://janusai.pro/)
+[JanusAI.Pro](https://janusai.pro/)  
+[grok](https://grok.com/)  
